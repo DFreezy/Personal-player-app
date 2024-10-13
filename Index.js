@@ -84,6 +84,48 @@ const allSongs = [
     artist: "D Freezy",
     duration: "3:15",
     src: "Songs/Moving on.mp3"
+  },
+  {
+    id: 11,
+    title: "Could've been your man",
+    artist: "D Freezy",
+    duration: "2:49",
+    src: "Songs/Could've been your man.mp3"
+  },
+  {
+    id: 12,
+    title: "Illusion",
+    artist: "D Freezy",
+    duration: "2:48",
+    src: "Songs/Illusion.mp3"
+  },
+  {
+    id: 13,
+    title: "Let's see what happens",
+    artist: "D Freezy",
+    duration: "2:35",
+    src: "Songs/Let's see what happens.mp3"
+  },
+  {
+    id: 14,
+    title: "On top of the world",
+    artist: "D Freezy",
+    duration: "3:54",
+    src: "Songs/On Top of the World.mp3"
+  },
+  {
+    id: 15,
+    title: "Don't give up",
+    artist: "D Freezy",
+    duration: "2:57",
+    src: "Songs/Don't give up.mp3"
+  },
+  {
+    id: 16,
+    title: "It's going to be alright",
+    artist: "D Freezy",
+    duration: "4:00",
+    src: "Songs/It's going to be alright.mp3"
   }
 ];
 
