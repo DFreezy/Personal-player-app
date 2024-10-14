@@ -2,7 +2,8 @@
   /* colors */
   --primary-color: #ffe5e5; /* Soft pink */
   --secondary-color: #ffffff;
-  --app-background-color: #ff4b4b; /* Vivid red for a passionate background */
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgHE00ElsXBAE0U_4A-J7tMJu16HK_R9UaPQ&s");
+  background-size:cover; /* Vivid red for a passionate background */
   --background-color: #b3003b; /* Deep rose red */
   --foreground-color: #ff7373; /* Light rose pink */
   --highlight-color: #ffdfd3; /* Warm cream for highlights */
