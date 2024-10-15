@@ -126,6 +126,20 @@ const allSongs = [
     artist: "D Freezy",
     duration: "4:00",
     src: "Songs/It's going to be alright.mp3"
+  },
+  {
+    id: 17,
+    title: "Hidden flame",
+    artist: "D Freezy",
+    duration: "3:29",
+    src: "Songs/Hidden flame.mp3"
+  },
+  {
+    id: 18,
+    title: "Superhero",
+    artist: "D Freezy",
+    duration: "3:14",
+    src: "Songs/Superhero.mp3"
   }
 ];
 
